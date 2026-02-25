@@ -1,6 +1,10 @@
+<b>Click to play</b>
+
 <p align="center">
   <img src="screenshots/rec_004.gif">
 </p>
+
+<b>Click to play</b>
 
 <p align="center">
   <img src="screenshots/rec_005.gif">
