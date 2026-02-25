@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="screenshots/rec_004.gif" width="80%">
+</p>
+
+<p align="center">
+  <img src="screenshots/rec_005.gif" width="80%">
+</p>
+
 # VisualTK-Studio
 Drag &amp; Drop CustomTkinter GUI Builder with Logic Rules, Variables, Multi-Page Support and Export Pipeline. Demo version available.
 # ⚡ VisualTK Studio
