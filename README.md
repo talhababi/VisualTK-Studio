@@ -59,13 +59,26 @@ Full version includes:
 
 ## 🖼 Screenshots
 
-screenshots/login_screen1.PNG
-screenshots/main_screen2.PNG
-screenshots/ai_screen3.PNG
-screenshots/code_screen4.PNG
-screenshots/export_pipeline5.PNG
-screenshots/logic6.PNG
-screenshots/font7.PNG
+### Login Screen
+![Login Screen](screenshots/login_screen1.PNG)
+
+### Main Screen
+![Main Screen](screenshots/main_screen2.PNG)
+
+### AI Assistant
+![AI Screen](screenshots/ai_screen3.PNG)
+
+### Code Editor
+![Code Screen](screenshots/code_screen4.PNG)
+
+### Export Pipeline
+![Export Pipeline](screenshots/export_pipeline5.PNG)
+
+### Logic Rules
+![Logic](screenshots/logic6.PNG)
+
+### Font Picker
+![Font](screenshots/font7.PNG)
 
 
 
