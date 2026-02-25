@@ -59,7 +59,13 @@ Full version includes:
 
 ## 🖼 Screenshots
 
-will be edited
+screenshots/login_screen1.PNG
+screenshots/main_screen2.PNG
+screenshots/ai_screen3.PNG
+screenshots/code_screen4.PNG
+screenshots/export_pipeline5.PNG
+screenshots/logic6.PNG
+screenshots/font7.PNG
 
 
 
