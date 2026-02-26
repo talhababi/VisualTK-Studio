@@ -131,7 +131,7 @@ Full version includes:
 
 Available on Gumroad:
 
-will be edited
+[will be edited](https://talha56.gumroad.com/l/eoqbj)
 
 ---
 
