@@ -131,7 +131,8 @@ Full version includes:
 
 Available on Gumroad:
 
-[will be edited](https://talha56.gumroad.com/l/eoqbj)
+[Click](https://talha56.gumroad.com/l/eoqbj)
+https://talha56.gumroad.com/l/eoqbj
 
 ---
 
